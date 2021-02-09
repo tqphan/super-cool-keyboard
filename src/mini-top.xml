@@ -1,0 +1,27 @@
+<Keyboard>
+  <Name>OptiKey-BoardMaker</Name>
+  <Height>15%</Height>
+  <SymbolMargin>0</SymbolMargin>
+  <BorderThickness>0,0,0,0</BorderThickness>
+  <DockSize>Full</DockSize>
+  <Position>Top</Position>
+  <Width>15%</Width>
+  <HorizontalOffset>0</HorizontalOffset>
+  <VerticalOffset>0</VerticalOffset>
+  <BackgroundColor>Transparent</BackgroundColor>
+  <BorderColor>Transparent</BorderColor>
+  <WindowState>Floating</WindowState>
+  <Grid>
+    <Rows>2</Rows>
+    <Cols>3</Cols>
+  </Grid>
+  <HideFromKeyboardMenu>true</HideFromKeyboardMenu>
+  <KeyGroup Name="Minimize" Opacity="0.1" />
+  <Content>
+    <DynamicKey Row="0" Col="1">
+      <Symbol>MinimiseIcon</Symbol>
+      <ChangeKeyboard BackReturnsHere="false">gaze-bar-top</ChangeKeyboard>
+      <KeyGroup>Minimize</KeyGroup>
+    </DynamicKey>
+  </Content>
+</Keyboard>

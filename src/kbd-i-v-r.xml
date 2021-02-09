@@ -1,0 +1,252 @@
+<Keyboard>
+  <Name>v</Name>
+  <Height>100%</Height>
+  <SymbolMargin>12</SymbolMargin>
+  <BorderThickness>0,0,0,0</BorderThickness>
+  <DockSize>Full</DockSize>
+  <Position>Right</Position>
+  <Width>33%</Width>
+  <HorizontalOffset>0</HorizontalOffset>
+  <VerticalOffset>0</VerticalOffset>
+  <BackgroundColor>#ffffff</BackgroundColor>
+  <BorderColor>#ffffff</BorderColor>
+  <WindowState>Floating</WindowState>
+  <HideFromKeyboardMenu>false</HideFromKeyboardMenu>
+  <Grid>
+    <Rows>10</Rows>
+    <Cols>5</Cols>
+  </Grid>
+  <Content>
+    <SuggestionRow Row="0" Col="0" Width="5"/>
+    <DynamicKey Row="1" Col="0">
+      <ShiftDownLabel>Q</ShiftDownLabel>
+      <Label>q</Label>
+      <Text>q</Text>
+      <KeyGroup>Alphabet</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="1" Col="1">
+      <ShiftDownLabel>W</ShiftDownLabel>
+      <Label>w</Label>
+      <Text>w</Text>
+      <KeyGroup>Alphabet</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="1" Col="2">
+      <ShiftDownLabel>E</ShiftDownLabel>
+      <Label>e</Label>
+      <Text>e</Text>
+      <KeyGroup>Alphabet</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="1" Col="3">
+      <ShiftDownLabel>R</ShiftDownLabel>
+      <Label>r</Label>
+      <Text>r</Text>
+      <KeyGroup>Alphabet</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="1" Col="4">
+      <ShiftDownLabel>T</ShiftDownLabel>
+      <Label>t</Label>
+      <Text>t</Text>
+      <KeyGroup>Alphabet</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="2" Col="0">
+      <ShiftDownLabel>A</ShiftDownLabel>
+      <Label>a</Label>
+      <Text>a</Text>
+      <KeyGroup>Alphabet</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="2" Col="1">
+      <ShiftDownLabel>S</ShiftDownLabel>
+      <Label>s</Label>
+      <Text>s</Text>
+      <KeyGroup>Alphabet</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="2" Col="2">
+      <ShiftDownLabel>D</ShiftDownLabel>
+      <Label>d</Label>
+      <Text>d</Text>
+      <KeyGroup>Alphabet</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="2" Col="3">
+      <ShiftDownLabel>F</ShiftDownLabel>
+      <Label>f</Label>
+      <Text>f</Text>
+      <KeyGroup>Alphabet</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="2" Col="4">
+      <ShiftDownLabel>G</ShiftDownLabel>
+      <Label>g</Label>
+      <Text>g</Text>
+      <KeyGroup>Alphabet</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="3" Col="0">
+      <ShiftDownLabel>Z</ShiftDownLabel>
+      <Label>z</Label>
+      <Text>z</Text>
+      <KeyGroup>Alphabet</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="3" Col="1">
+      <ShiftDownLabel>X</ShiftDownLabel>
+      <Label>x</Label>
+      <Text>x</Text>
+      <KeyGroup>Alphabet</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="3" Col="2">
+      <ShiftDownLabel>C</ShiftDownLabel>
+      <Label>c</Label>
+      <Text>c</Text>
+      <KeyGroup>Alphabet</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="3" Col="3">
+      <ShiftDownLabel>V</ShiftDownLabel>
+      <Label>v</Label>
+      <Text>v</Text>
+      <KeyGroup>Alphabet</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="3" Col="4">
+      <ShiftDownLabel>B</ShiftDownLabel>
+      <Label>b</Label>
+      <Text>b</Text>
+      <KeyGroup>Alphabet</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="4" Col="0">
+      <ShiftDownLabel>Y</ShiftDownLabel>
+      <Label>y</Label>
+      <Text>y</Text>
+      <KeyGroup>Alphabet</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="4" Col="1">
+      <ShiftDownLabel>U</ShiftDownLabel>
+      <Label>u</Label>
+      <Text>u</Text>
+      <KeyGroup>Alphabet</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="4" Col="2">
+      <ShiftDownLabel>I</ShiftDownLabel>
+      <Label>i</Label>
+      <Text>i</Text>
+      <KeyGroup>Alphabet</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="4" Col="3">
+      <ShiftDownLabel>O</ShiftDownLabel>
+      <Label>o</Label>
+      <Text>o</Text>
+      <KeyGroup>Alphabet</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="4" Col="4">
+      <ShiftDownLabel>P</ShiftDownLabel>
+      <Label>p</Label>
+      <Text>p</Text>
+      <KeyGroup>Alphabet</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="5" Col="0">
+      <ShiftDownLabel>H</ShiftDownLabel>
+      <Label>h</Label>
+      <Text>h</Text>
+      <KeyGroup>Alphabet</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="5" Col="1">
+      <ShiftDownLabel>J</ShiftDownLabel>
+      <Label>j</Label>
+      <Text>j</Text>
+      <KeyGroup>Alphabet</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="5" Col="2">
+      <ShiftDownLabel>K</ShiftDownLabel>
+      <Label>k</Label>
+      <Text>k</Text>
+      <KeyGroup>Alphabet</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="5" Col="3">
+      <ShiftDownLabel>L</ShiftDownLabel>
+      <Label>l</Label>
+      <Text>l</Text>
+      <KeyGroup>Alphabet</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="5" Col="4">
+      <ShiftDownLabel>N</ShiftDownLabel>
+      <Label>n</Label>
+      <Text>n</Text>
+      <KeyGroup>Alphabet</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="6" Col="0">
+      <ShiftDownLabel>M</ShiftDownLabel>
+      <Label>m</Label>
+      <Text>m</Text>
+      <KeyGroup>Alphabet</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="6" Col="1">
+      <Label>␣</Label>
+      <Text>&#32;</Text>
+      <KeyGroup>Alphabet</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="6" Col="2">
+      <Symbol>EnterIcon</Symbol>
+      <Text>&#13;</Text>
+      <KeyGroup>Modifier</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="6" Col="4">
+      <Symbol>BackOneIcon</Symbol>
+      <Action>BackOne</Action>
+      <KeyGroup>Modifier</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="7" Col="0">
+      <ShiftDownLabel>&lt;</ShiftDownLabel>
+      <Label>,</Label>
+      <Text>,</Text>
+      <KeyGroup>Punctuation</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="7" Col="1">
+      <ShiftDownLabel>&gt;</ShiftDownLabel>
+      <Label>.</Label>
+      <Text>.</Text>
+      <KeyGroup>Punctuation</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="7" Col="2">
+      <ShiftDownLabel>?</ShiftDownLabel>
+      <Label>/</Label>
+      <Text>/</Text>
+      <KeyGroup>Punctuation</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="7" Col="3">
+      <ShiftDownLabel>:</ShiftDownLabel>
+      <Label>;</Label>
+      <Text>;</Text>
+      <KeyGroup>Punctuation</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="7" Col="4">
+      <ShiftDownLabel>"</ShiftDownLabel>
+      <Label>'</Label>
+      <Text>'</Text>
+      <KeyGroup>Punctuation</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="8" Col="0">
+      <Symbol>LeftArrowKeyIcon</Symbol>
+      <ChangeKeyboard BackReturnsHere="false">kbd-ii-h-t</ChangeKeyboard>
+      <KeyGroup>Mirror</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="9" Col="0">
+      <Symbol>NoIcon</Symbol>
+      <Action>BackFromKeyboard</Action>
+    </DynamicKey>
+    <DynamicKey Row="9" Col="1">
+      <Label>Alt</Label>
+      <Action>LeftAlt</Action>
+      <KeyGroup>Modifier</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="9" Col="2">
+      <Label>Ctrl</Label>
+      <Action>LeftCtrl</Action>
+      <KeyGroup>Modifier</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="9" Col="3">
+      <Label>Win</Label>
+      <Action>LeftWin</Action>
+      <KeyGroup>Modifier</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="9" Col="4">
+      <Label>Shft</Label>
+      <Action>LeftShift</Action>
+      <KeyGroup>Modifier</KeyGroup>
+    </DynamicKey>
+  </Content>
+</Keyboard>
