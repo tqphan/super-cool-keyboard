@@ -21,8 +21,8 @@
   <KeyGroup Name="Modifier" BackgroundColor="#2a2640" ForegroundColor = "#ffffff" KeyDisabledBackground="gray" KeyDownBackground="blue" />
   <KeyGroup Name="Navigation" BackgroundColor="DarkSlateGray" KeyDisabledBackground="gray" KeyDownBackground="blue" />
   <KeyGroup Name="Alphabet" BackgroundColor="#333333" ForegroundColor = "#ffffff" KeyDisabledBackground="gray" KeyDownBackground="blue" />
-  <KeyGroup Name="Numeric" BackgroundColor="#2a2640" ForegroundColor = "#ffffff" KeyDisabledBackground="gray" KeyDownBackground="blue" />
-  <KeyGroup Name="Edit" BackgroundColor="#2a2640" ForegroundColor = "#ffffff" KeyDisabledBackground="gray" KeyDownBackground="blue" />
+  <KeyGroup Name="Numeric" BackgroundColor="#2c2c54" ForegroundColor = "#ffffff" KeyDisabledBackground="gray" KeyDownBackground="blue" />
+  <KeyGroup Name="Edit" BackgroundColor="#c0392b" ForegroundColor = "#ffffff" KeyDisabledBackground="gray" KeyDownBackground="blue" />
   <KeyGroup Name="Punctuation" BackgroundColor="#3F3F3F" ForegroundColor = "#ffffff" KeyDisabledBackground="gray" KeyDownBackground="blue" />
   <KeyGroup Name="Pagination" BackgroundColor="#10394c" ForegroundColor = "#ffffff" KeyDisabledBackground="gray" KeyDownBackground="blue" />
   <KeyGroup Name="Exit" BackgroundColor="#0c240c" ForegroundColor = "#981220" KeyDisabledBackground="gray" KeyDownBackground="blue" />
