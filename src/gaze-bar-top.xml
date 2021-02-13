@@ -21,53 +21,52 @@
     <DynamicKey Row="0" Col="0">
       <Symbol>DownArrowKeyIcon</Symbol>
       <ChangeKeyboard BackReturnsHere="true">gaze-bar-bottom</ChangeKeyboard>
-      </DynamicKey>
-      <DynamicKey Row="0" Col="1">
-        <Symbol>MouseLeftClickIcon</Symbol>
-        <Action>MouseMoveAndLeftClick</Action>
-      </DynamicKey>
-      <DynamicKey Row="0" Col="2">
-        <Symbol>MouseRightClickIcon</Symbol>
-        <Action>MouseMoveAndRightClick</Action>
-      </DynamicKey>
-      <DynamicKey Row="0" Col="3">
-        <Symbol>LookToScrollActiveIcon</Symbol>
-        <Action>LookToScrollActive</Action>
-      </DynamicKey>
-      <DynamicKey Row="0" Col="4">
-      </DynamicKey>
-      <DynamicKey Row="0" Col="5">
-        <Symbol>KeyboardIcon</Symbol>
-        <ChangeKeyboard BackReturnsHere="true">kbd-ii-h-t</ChangeKeyboard>
-      </DynamicKey>
-      <DynamicKey Row="0" Col="6">
-        <Symbol>MouseIcon</Symbol>
-        <ChangeKeyboard BackReturnsHere="true">mouse-i-h-t</ChangeKeyboard>
-      </DynamicKey>
-      <DynamicKey Row="0" Col="7">
-        <Symbol>ConversationIcon</Symbol>
-        <Action>ConversationAlpha1Keyboard</Action>
-      </DynamicKey>
-      <DynamicKey Row="0" Col="8">
-        <Symbol>WinIcon</Symbol>
-        <KeyDown>LWIN</KeyDown>
-        <KeyUp>LWIN</KeyUp>
-      </DynamicKey>
-      <DynamicKey Row="0" Col="9">
-        <Symbol>LookToScrollBoundsSubwindowIcon</Symbol>
-        <KeyDown>LWIN</KeyDown>
-        <KeyDown>TAB</KeyDown>
-        <KeyUp>TAB</KeyUp>
-        <KeyUp>LWIN</KeyUp>
-      </DynamicKey>
-      <DynamicKey Row="0" Col="10">
-        <Symbol>MenuIcon</Symbol>
-        <Action>MenuKeyboard</Action>
-        <!-- <ChangeKeyboard BackReturnsHere="true">kbd-i-v-r</ChangeKeyboard> -->
-      </DynamicKey>
-      <DynamicKey Row="0" Col="11">
-        <Symbol>MinimiseIcon</Symbol>
-        <ChangeKeyboard BackReturnsHere="true">mini-top</ChangeKeyboard>
-      </DynamicKey>
+    </DynamicKey>
+    <DynamicKey Row="0" Col="1">
+      <Symbol>MouseLeftClickIcon</Symbol>
+      <Action>MouseMoveAndLeftClick</Action>
+    </DynamicKey>
+    <DynamicKey Row="0" Col="2">
+      <Symbol>MouseRightClickIcon</Symbol>
+      <Action>MouseMoveAndRightClick</Action>
+    </DynamicKey>
+    <DynamicKey Row="0" Col="3">
+      <Symbol>LookToScrollActiveIcon</Symbol>
+      <Action>LookToScrollActive</Action>
+    </DynamicKey>
+    <DynamicKey Row="0" Col="4">
+      <Symbol>ConversationIcon</Symbol>
+      <Action>ConversationAlpha1Keyboard</Action>
+    </DynamicKey>
+    <DynamicKey Row="0" Col="5">
+      <Symbol>KeyboardIcon</Symbol>
+      <ChangeKeyboard BackReturnsHere="true">kbd-ii-h-t</ChangeKeyboard>
+    </DynamicKey>
+    <DynamicKey Row="0" Col="6">
+      <Symbol>MouseIcon</Symbol>
+      <ChangeKeyboard BackReturnsHere="true">mouse-i-h-t</ChangeKeyboard>
+    </DynamicKey>
+    <DynamicKey Row="0" Col="7">
+    </DynamicKey>
+    <DynamicKey Row="0" Col="8">
+      <Symbol>WinIcon</Symbol>
+      <KeyDown>LWIN</KeyDown>
+      <KeyUp>LWIN</KeyUp>
+    </DynamicKey>
+    <DynamicKey Row="0" Col="9">
+      <Symbol>LookToScrollBoundsSubwindowIcon</Symbol>
+      <KeyDown>LWIN</KeyDown>
+      <KeyDown>TAB</KeyDown>
+      <KeyUp>TAB</KeyUp>
+      <KeyUp>LWIN</KeyUp>
+    </DynamicKey>
+    <DynamicKey Row="0" Col="10">
+      <Symbol>MenuIcon</Symbol>
+      <Action>MenuKeyboard</Action>
+    </DynamicKey>
+    <DynamicKey Row="0" Col="11">
+      <Symbol>MinimiseIcon</Symbol>
+      <ChangeKeyboard BackReturnsHere="true">mini-top</ChangeKeyboard>
+    </DynamicKey>
   </Content>
 </Keyboard>
