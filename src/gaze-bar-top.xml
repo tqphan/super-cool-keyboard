@@ -47,6 +47,8 @@
       <ChangeKeyboard BackReturnsHere="true">mouse-i-h-t</ChangeKeyboard>
     </DynamicKey>
     <DynamicKey Row="0" Col="7">
+      <Symbol>BrowserIcon</Symbol>
+      <ChangeKeyboard BackReturnsHere="true">web-i-h-t</ChangeKeyboard>
     </DynamicKey>
     <DynamicKey Row="0" Col="8">
       <Symbol>WinIcon</Symbol>
