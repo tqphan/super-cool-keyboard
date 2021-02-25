@@ -129,17 +129,17 @@
       <DynamicKey Row="1" Col="8">
         <Symbol>ArrowPointingToLeftIcon</Symbol>
         <KeyDown>LCONTROL</KeyDown>
+        <KeyDown>LSHIFT</KeyDown>
         <KeyDown>TAB</KeyDown>
         <KeyUp>TAB</KeyUp>
+        <KeyUp>LSHIFT</KeyUp>
         <KeyUp>LCONTROL</KeyUp>
       </DynamicKey>
       <DynamicKey Row="1" Col="9">
         <Symbol>ArrowPointingToRightIcon</Symbol>
         <KeyDown>LCONTROL</KeyDown>
-        <KeyDown>LSHIFT</KeyDown>
         <KeyDown>TAB</KeyDown>
         <KeyUp>TAB</KeyUp>
-        <KeyUp>LSHIFT</KeyUp>
         <KeyUp>LCONTROL</KeyUp>
       </DynamicKey>
       <DynamicKey Row="1" Col="10">
