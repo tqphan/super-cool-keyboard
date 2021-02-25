@@ -1,0 +1,398 @@
+<Keyboard>
+  <Name>Big Hacker Keyboard</Name>
+  <Height>40%</Height>
+  <SymbolMargin>1</SymbolMargin>
+  <BorderThickness>0,0,0,0</BorderThickness>
+  <DockSize>Full</DockSize>
+  <Position>Top</Position>
+  <Width>100%</Width>
+  <HorizontalOffset>0</HorizontalOffset>
+  <VerticalOffset>0</VerticalOffset>
+  <BackgroundColor>Transparent</BackgroundColor>
+  <BorderColor>Transparent</BorderColor>
+  <WindowState>Docked</WindowState>
+  <PersistNewState>false</PersistNewState>
+  <Grid>
+    <Rows>7</Rows>
+    <Cols>12</Cols>
+  </Grid>
+  <Content>
+    <DynamicKey Row="0" Col="0">
+      <Label>7</Label>
+      <ShiftDownLabel>&amp;</ShiftDownLabel>
+      <Text>7</Text>
+    </DynamicKey>
+    <DynamicKey Row="0" Col="1">
+      <Label>8</Label>
+      <ShiftDownLabel>*</ShiftDownLabel>
+      <Text>8</Text>
+    </DynamicKey>
+    <DynamicKey Row="0" Col="2">
+      <Label>9</Label>
+      <ShiftDownLabel>(</ShiftDownLabel>
+      <Text>9</Text>
+    </DynamicKey>
+    <DynamicKey Row="0" Col="3">
+      <Label>\</Label>
+      <ShiftDownLabel>|</ShiftDownLabel>
+      <Text>\</Text>
+    </DynamicKey>
+    <DynamicKey Row="0" Col="4">
+      <Label>4</Label>
+      <Text>4</Text>
+    </DynamicKey>
+    <DynamicKey Row="0" Col="5">
+      <Label>$</Label>
+      <ShiftDownLabel>$</ShiftDownLabel>
+      <Text>$</Text>
+    </DynamicKey>
+    <DynamicKey Row="0" Col="6">
+      <ShiftDownLabel>&amp;</ShiftDownLabel>
+      <Label>&amp;</Label>
+      <Text>&amp;</Text>
+    </DynamicKey>
+    <DynamicKey Row="0" Col="7">
+      <Label>^</Label>
+      <ShiftDownLabel>^</ShiftDownLabel>
+      <Text>^</Text>
+    </DynamicKey>
+    <DynamicKey Row="0" Col="8">
+      <Label>!</Label>
+      <ShiftDownLabel>!</ShiftDownLabel>
+      <Text>!</Text>
+    </DynamicKey>
+    <DynamicKey Row="0" Col="9">
+      <Label>?</Label>
+      <ShiftDownLabel>?</ShiftDownLabel>
+      <Text>?</Text>
+    </DynamicKey>
+    <DynamicKey Row="0" Col="10">
+      <Label>|</Label>
+      <Text>|</Text>
+    </DynamicKey>
+    <DynamicKey Row="0" Col="11">
+      <Symbol>MenuIcon</Symbol>
+      <Action>MenuKeyboard</Action>
+    </DynamicKey>
+    <DynamicKey Row="1" Col="0">
+      <Label>4</Label>
+      <ShiftDownLabel>$</ShiftDownLabel>
+      <Text>4</Text>
+    </DynamicKey>
+    <DynamicKey Row="1" Col="1">
+      <Label>5</Label>
+      <ShiftDownLabel>%</ShiftDownLabel>
+      <Text>5</Text>
+    </DynamicKey>
+    <DynamicKey Row="1" Col="2">
+      <Label>6</Label>
+      <ShiftDownLabel>^</ShiftDownLabel>
+      <Text>6</Text>
+    </DynamicKey>
+    <DynamicKey Row="1" Col="3">
+      <Label>/</Label>
+      <ShiftDownLabel>?</ShiftDownLabel>
+      <Text>/</Text>
+    </DynamicKey>
+    <DynamicKey Row="1" Col="4">
+      <Label>:</Label>
+      <Text>:</Text>
+    </DynamicKey>
+    <DynamicKey Row="1" Col="5">
+      <ShiftDownLabel>F</ShiftDownLabel>
+      <Label>f</Label>
+      <Text>f</Text>
+    </DynamicKey>
+    <DynamicKey Row="1" Col="6">
+      <ShiftDownLabel>G</ShiftDownLabel>
+      <Label>g</Label>
+      <Text>g</Text>
+    </DynamicKey>
+    <DynamicKey Row="1" Col="7">
+      <ShiftDownLabel>H</ShiftDownLabel>
+      <Label>h</Label>
+      <Text>h</Text>
+    </DynamicKey>
+    <DynamicKey Row="1" Col="8">
+      <Label>q</Label>
+      <ShiftDownLabel>Q</ShiftDownLabel>
+      <Text>q</Text>
+    </DynamicKey>
+    <DynamicKey Row="1" Col="9">
+      <Label>j</Label>
+      <ShiftDownLabel>J</ShiftDownLabel>
+      <Text>j</Text>
+    </DynamicKey>
+    <DynamicKey Row="1" Col="10">
+      <Label>%</Label>
+      <Text>%</Text>
+    </DynamicKey>
+    <DynamicKey Row="1" Col="11">
+      <Label>`</Label>
+      <ShiftDownLabel>~</ShiftDownLabel>
+      <Text>`</Text>
+    </DynamicKey>
+    <DynamicKey Row="2" Col="0">
+      <Label>1</Label>
+      <ShiftDownLabel>!</ShiftDownLabel>
+      <Text>1</Text>
+    </DynamicKey>
+    <DynamicKey Row="2" Col="1">
+      <ShiftDownLabel>@</ShiftDownLabel>
+      <Label>2</Label>
+      <Text>2</Text>
+    </DynamicKey>
+    <DynamicKey Row="2" Col="2">
+      <ShiftDownLabel>#</ShiftDownLabel>
+      <Label>3</Label>
+      <Text>3</Text>
+    </DynamicKey>
+    <DynamicKey Row="2" Col="3">
+      <Label>_</Label>
+      <Text>_</Text>
+    </DynamicKey>
+    <DynamicKey Row="2" Col="4">
+      <Label>;</Label>
+      <Text>;</Text>
+    </DynamicKey>
+    <DynamicKey Row="2" Col="5">
+      <ShiftDownLabel>M</ShiftDownLabel>
+      <Label>m</Label>
+      <Text>m</Text>
+    </DynamicKey>
+    <DynamicKey Row="2" Col="6">
+      <ShiftDownLabel>N</ShiftDownLabel>
+      <Label>n</Label>
+      <Text>n</Text>
+    </DynamicKey>
+    <DynamicKey Row="2" Col="7">
+      <ShiftDownLabel>P</ShiftDownLabel>
+      <Label>p</Label>
+      <Text>p</Text>
+    </DynamicKey>
+    <DynamicKey Row="2" Col="8">
+      <ShiftDownLabel>B</ShiftDownLabel>
+      <Label>b</Label>
+      <Text>b</Text>
+    </DynamicKey>
+    <DynamicKey Row="2" Col="9">
+      <ShiftDownLabel>K</ShiftDownLabel>
+      <Label>k</Label>
+      <Text>k</Text>
+    </DynamicKey>
+    <DynamicKey Row="2" Col="10">
+      <ShiftDownLabel>V</ShiftDownLabel>
+      <Label>v</Label>
+      <Text>v</Text>
+    </DynamicKey>
+    <DynamicKey Row="2" Col="11">
+      <Label>@</Label>
+      <ShiftDownLabel>@</ShiftDownLabel>
+      <Text>@</Text>
+    </DynamicKey>
+    <DynamicKey Row="3" Col="0">
+      <Label>-</Label>
+      <ShiftDownLabel>-</ShiftDownLabel>
+      <Text>-</Text>
+    </DynamicKey>
+    <DynamicKey Row="3" Col="1">
+      <Label>*</Label>
+      <ShiftDownLabel>*</ShiftDownLabel>
+      <Text>*</Text>
+    </DynamicKey>
+    <DynamicKey Row="3" Col="2">
+      <Label>0</Label>
+      <Text>0</Text>
+    </DynamicKey>
+    <DynamicKey Row="3" Col="3">
+      <Label>"</Label>
+      <ShiftDownLabel>"</ShiftDownLabel>
+      <Text>"</Text>
+    </DynamicKey>
+    <DynamicKey Row="3" Col="4">
+      <ShiftDownLabel>L</ShiftDownLabel>
+      <Label>l</Label>
+      <Text>l</Text>
+    </DynamicKey>
+    <DynamicKey Row="3" Col="5">
+      <ShiftDownLabel>S</ShiftDownLabel>
+      <Label>s</Label>
+      <Text>s</Text>
+    </DynamicKey>
+    <DynamicKey Row="3" Col="6">
+      <ShiftDownLabel>R</ShiftDownLabel>
+      <Label>r</Label>
+      <Text>r</Text>
+    </DynamicKey>
+    <DynamicKey Row="3" Col="7">
+      <ShiftDownLabel>T</ShiftDownLabel>
+      <Label>t</Label>
+      <Text>t</Text>
+    </DynamicKey>
+    <DynamicKey Row="3" Col="8">
+      <ShiftDownLabel>C</ShiftDownLabel>
+      <Label>c</Label>
+      <Text>c</Text>
+    </DynamicKey>
+    <DynamicKey Row="3" Col="9">
+      <ShiftDownLabel>D</ShiftDownLabel>
+      <Label>d</Label>
+      <Text>d</Text>
+    </DynamicKey>
+    <DynamicKey Row="3" Col="10">
+      <Label>w</Label>
+      <ShiftDownLabel>W</ShiftDownLabel>
+      <Text>w</Text>
+    </DynamicKey>
+    <DynamicKey Row="3" Col="11">
+      <Label>#</Label>
+      <Text>#</Text>
+    </DynamicKey>
+    <DynamicKey Row="4" Col="0">
+      <Label>+</Label>
+      <ShiftDownLabel>+</ShiftDownLabel>
+      <Text>+</Text>
+    </DynamicKey>
+    <DynamicKey Row="4" Col="1">
+      <Label>&lt;</Label>
+      <Text>&lt;</Text>
+    </DynamicKey>
+    <DynamicKey Row="4" Col="2">
+      <Label>=</Label>
+      <Text>=</Text>
+    </DynamicKey>
+    <DynamicKey Row="4" Col="3">
+      <ShiftDownLabel>J</ShiftDownLabel>
+      <Label>j</Label>
+      <Text>j</Text>
+    </DynamicKey>
+    <DynamicKey Row="4" Col="4">
+      <ShiftDownLabel>A</ShiftDownLabel>
+      <Label>a</Label>
+      <Text>a</Text>
+    </DynamicKey>
+    <DynamicKey Row="4" Col="5">
+      <ShiftDownLabel>E</ShiftDownLabel>
+      <Label>e</Label>
+      <Text>e</Text>
+    </DynamicKey>
+    <DynamicKey Row="4" Col="6">
+      <ShiftDownLabel>I</ShiftDownLabel>
+      <Label>i</Label>
+      <Text>i</Text>
+    </DynamicKey>
+    <DynamicKey Row="4" Col="7">
+      <ShiftDownLabel>O</ShiftDownLabel>
+      <Label>o</Label>
+      <Text>o</Text>
+    </DynamicKey>
+    <DynamicKey Row="4" Col="8">
+      <ShiftDownLabel>U</ShiftDownLabel>
+      <Label>u</Label>
+      <Text>u</Text>
+    </DynamicKey>
+    <DynamicKey Row="4" Col="9">
+      <ShiftDownLabel>X</ShiftDownLabel>
+      <Label>x</Label>
+      <Text>x</Text>
+    </DynamicKey>
+    <DynamicKey Row="4" Col="10">
+      <ShiftDownLabel>Y</ShiftDownLabel>
+      <Label>y</Label>
+      <Text>y</Text>
+    </DynamicKey>
+    <DynamicKey Row="4" Col="11">
+      <ShiftDownLabel>Z</ShiftDownLabel>
+      <Label>z</Label>
+      <Text>z</Text>
+    </DynamicKey>
+    <DynamicKey Row="5" Col="0">
+      <Label>Win</Label>
+      <Action>LeftWin</Action>
+    </DynamicKey>
+    <DynamicKey Row="5" Col="1">
+      <Label>&gt;</Label>
+      <Text>&gt;</Text>
+    </DynamicKey>
+    <DynamicKey Row="5" Col="2">
+      <Label>,</Label>
+      <Text>,</Text>
+    </DynamicKey>
+    <DynamicKey Row="5" Col="3">
+      <Label>.</Label>
+      <Text>.</Text>
+    </DynamicKey>
+    <DynamicKey Row="5" Col="4">
+      <Label>(</Label>
+      <Text>(</Text>
+    </DynamicKey>
+    <DynamicKey Row="5" Col="5">
+      <Label>)</Label>
+      <Text>)</Text>
+    </DynamicKey>
+    <DynamicKey Row="5" Col="6">
+      <Label>[</Label>
+      <Text>[</Text>
+    </DynamicKey>
+    <DynamicKey Row="5" Col="7">
+      <Label>]</Label>
+      <Text>]</Text>
+    </DynamicKey>
+    <DynamicKey Row="5" Col="8">
+      <Label>{</Label>
+      <Text>{</Text>
+    </DynamicKey>
+    <DynamicKey Row="5" Col="9">
+      <Label>}</Label>
+      <Text>}</Text>
+    </DynamicKey>
+    <DynamicKey Row="5" Col="10">
+      <Symbol>UpArrowKeyIcon</Symbol>
+      <Action>ArrowUp</Action>
+    </DynamicKey>
+    <DynamicKey Row="5" Col="11">
+      <Label>Esc</Label>
+      <Action>Escape</Action>
+    </DynamicKey>
+    <DynamicKey Row="6" Col="0">
+      <Label>Ctrl</Label>
+      <Action>LeftCtrl</Action>
+    </DynamicKey>
+    <DynamicKey Row="6" Col="1">
+      <Label>Alt</Label>
+      <Action>LeftAlt</Action>
+    </DynamicKey>
+    <DynamicKey Row="6" Col="2" Width="2">
+      <Symbol>ShiftIcon</Symbol>
+      <Action>LeftShift</Action>
+    </DynamicKey>
+    <DynamicKey Row="6" Col="4">
+      <Symbol>TabIcon</Symbol>
+      <Text>&#9;</Text>
+    </DynamicKey>
+    <DynamicKey Row="6" Col="5" Width="2" Width="2">
+      <Symbol>SpaceIcon</Symbol>
+      <Text>&#32;</Text>
+    </DynamicKey>
+    <DynamicKey Row="6" Col="7">
+      <Symbol>EnterIcon</Symbol>
+      <Text>&#13;</Text>
+    </DynamicKey>
+    <DynamicKey Row="6" Col="8">
+      <Symbol>BackOneIcon</Symbol>
+      <Action>BackOne</Action>
+    </DynamicKey>
+    <DynamicKey Row="6" Col="9">
+      <Symbol>LeftArrowKeyIcon</Symbol>
+      <Action>ArrowLeft</Action>
+    </DynamicKey>
+    <DynamicKey Row="6" Col="10">
+      <Symbol>DownArrowKeyIcon</Symbol>
+      <Action>ArrowDown</Action>
+    </DynamicKey>
+    <DynamicKey Row="6" Col="11">
+      <Symbol>RightArrowKeyIcon</Symbol>
+      <Action>ArrowRight</Action>
+    </DynamicKey>
+  </Content>
+</Keyboard>
