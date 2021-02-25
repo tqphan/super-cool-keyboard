@@ -64,7 +64,7 @@
       </DynamicKey>
       <DynamicKey Row="0" Col="11">
         <Symbol>NoIcon</Symbol>
-        <ChangeKeyboard BackReturnsHere="true">gaze-bar-bottom</ChangeKeyboard>
+        <Action>BackFromKeyboard</Action>
       </DynamicKey>
   </Content>
 </Keyboard>
