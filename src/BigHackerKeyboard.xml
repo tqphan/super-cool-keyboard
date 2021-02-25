@@ -1,5 +1,5 @@
 <Keyboard>
-  <Name>Big Hacker Keyboard</Name>
+  <Name>BigHackerKeyboard</Name>
   <Height>40%</Height>
   <SymbolMargin>1</SymbolMargin>
   <BorderThickness>0,0,0,0</BorderThickness>
@@ -370,7 +370,7 @@
       <Symbol>TabIcon</Symbol>
       <Text>&#9;</Text>
     </DynamicKey>
-    <DynamicKey Row="6" Col="5" Width="2" Width="2">
+    <DynamicKey Row="6" Col="5" Width="2">
       <Symbol>SpaceIcon</Symbol>
       <Text>&#32;</Text>
     </DynamicKey>
