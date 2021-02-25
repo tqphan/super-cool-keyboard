@@ -35,8 +35,11 @@
         <Action>LookToScrollActive</Action>
       </DynamicKey>
       <DynamicKey Row="0" Col="4">
-        <Label>␣</Label>
-        <Text>&#32;</Text>
+        <Symbol>BrowserBackIcon</Symbol>
+        <KeyDown>LMENU</KeyDown>
+        <KeyDown>LEFT</KeyDown>
+        <KeyUp>LEFT</KeyUp>
+        <KeyUp>LMENU</KeyUp>
       </DynamicKey>
       <DynamicKey Row="0" Col="5">
         <Symbol>KeyboardIcon</Symbol>
@@ -47,27 +50,21 @@
         <ChangeKeyboard BackReturnsHere="true">mouse-i-h-t</ChangeKeyboard>
       </DynamicKey>
       <DynamicKey Row="0" Col="7">
-        <Symbol>BrowserBackIcon</Symbol>
+        <Symbol>BrowserForwardIcon</Symbol>
         <KeyDown>LMENU</KeyDown>
-        <KeyDown>LEFT</KeyDown>
-        <KeyUp>LEFT</KeyUp>
+        <KeyDown>RIGHT</KeyDown>
+        <KeyUp>RIGHT</KeyUp>
         <KeyUp>LMENU</KeyUp>
       </DynamicKey>
       <DynamicKey Row="0" Col="8">
-        <Symbol>ArrowPointingToLeftIcon</Symbol>
-        <KeyDown>LCONTROL</KeyDown>
+        <Symbol>ArrowPointingToTopIcon</Symbol>
         <KeyDown>LSHIFT</KeyDown>
-        <KeyDown>TAB</KeyDown>
-        <KeyUp>TAB</KeyUp>
+        <Text>&#32;</Text>
         <KeyUp>LSHIFT</KeyUp>
-        <KeyUp>LCONTROL</KeyUp>
       </DynamicKey>
       <DynamicKey Row="0" Col="9">
-        <Symbol>ArrowPointingToRightIcon</Symbol>
-        <KeyDown>LCONTROL</KeyDown>
-        <KeyDown>TAB</KeyDown>
-        <KeyUp>TAB</KeyUp>
-        <KeyUp>LCONTROL</KeyUp>
+        <Symbol>ArrowPointingToBottomIcon</Symbol>
+        <Text>&#32;</Text>
       </DynamicKey>
       <DynamicKey Row="0" Col="10">
         <Symbol>MoreIcon</Symbol>
