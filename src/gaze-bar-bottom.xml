@@ -12,6 +12,7 @@
   <BorderColor>#ffffff</BorderColor>
   <WindowState>Floating</WindowState>
   <PersistNewState>false</PersistNewState>
+  <HideFromKeyboardMenu>true</HideFromKeyboardMenu>
   <Grid>
     <Rows>1</Rows>
     <Cols>12</Cols>

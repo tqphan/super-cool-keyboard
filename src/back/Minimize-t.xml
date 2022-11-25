@@ -1,0 +1,24 @@
+<Keyboard>
+    <Name>Menu</Name>
+    <HideFromKeyboardMenu>True</HideFromKeyboardMenu>
+    <PersistNewState>False</PersistNewState>  
+	<WindowState>Floating</WindowState>
+	<Position>Top</Position> 
+    <Height>50</Height>
+    <Width>120</Width>
+    <SymbolMargin>10</SymbolMargin>
+    <BorderThickness>0,0,0,0</BorderThickness>
+    <Grid>
+        <Rows>1</Rows>
+        <Cols>1</Cols>
+    </Grid>
+    <Keys>
+		<ChangeKeyboardKey> 
+            <Row>0</Row>
+            <Col>0</Col>
+            <Symbol>AlphaIcon</Symbol>
+            <ReturnToThisKeyboard>True</ReturnToThisKeyboard>
+            <DestinationKeyboard>Full-t</DestinationKeyboard>
+        </ChangeKeyboardKey>
+</Keys>
+</Keyboard>

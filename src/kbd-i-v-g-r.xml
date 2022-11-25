@@ -1,0 +1,171 @@
+<Keyboard>
+  <Name>OptiKey-New-World</Name>
+  <Height>100%</Height>
+  <SymbolMargin>12</SymbolMargin>
+  <BorderThickness>0,0,0,0</BorderThickness>
+  <DockSize>Full</DockSize>
+  <Position>Right</Position>
+  <Width>554</Width>
+  <HorizontalOffset>0</HorizontalOffset>
+  <VerticalOffset>0</VerticalOffset>
+  <BackgroundColor>#ffffff</BackgroundColor>
+  <BorderColor>#ffffff</BorderColor>
+  <WindowState>Floating</WindowState>
+  <Grid>
+    <Rows>10</Rows>
+    <Cols>5</Cols>
+  </Grid>
+  <HideFromKeyboardMenu>true</HideFromKeyboardMenu>
+  <PersistNewState>false</PersistNewState>
+  <Content>
+    <DynamicKey row="0" Col="0">
+      <Label>Shft</Label>
+      <KeyToggle>LeftShift</KeyToggle>
+      <KeyGroup>Modifier</KeyGroup>
+    </DynamicKey>
+    <DynamicKey row="0" Col="1">
+      <Label>Ctrl</Label>
+      <KeyToggle>LeftCtrl</KeyToggle>
+      <KeyGroup>Modifier</KeyGroup>
+    </DynamicKey>
+    <DynamicKey row="0" Col="2">
+      <Label>Alt</Label>
+      <KeyToggle>LeftAlt</KeyToggle>
+      <KeyGroup>Modifier</KeyGroup>
+    </DynamicKey>
+    <DynamicKey row="0" Col="3">
+      <Label>Win</Label>
+      <KeyToggle>LeftWin</KeyToggle>
+      <KeyGroup>Modifier</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="0" Col="4">
+      <Label>back</Label>
+      <Action>BackFromKeyboard</Action>
+    </DynamicKey>
+    <DynamicKey Row="1" Col="0">
+      <Label>F1</Label>
+      <Action>F1</Action>
+      <KeyGroup>Function</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="1" Col="1">
+      <Label>🡅</Label>
+      <Action>F2</Action>
+      <KeyGroup>Function</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="1" Col="2">
+      <Label>F3</Label>
+      <Action>F3</Action>
+      <KeyGroup>Function</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="1" Col="3">
+      <Label>F4</Label>
+      <Action>F4</Action>
+      <KeyGroup>Function</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="1" Col="4">
+      <Label>F5</Label>
+      <Action>F5</Action>
+      <KeyGroup>Function</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="2" Col="0">
+      <Label>🡄</Label>
+      <Action>F6</Action>
+      <KeyGroup>Function</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="2" Col="1">
+      <Label>🡇</Label>
+      <Action>F7</Action>
+      <KeyGroup>Function</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="2" Col="2">
+      <Label>🡆</Label>
+      <Action>F8</Action>
+      <KeyGroup>Function</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="2" Col="3">
+      <Label>F9</Label>
+      <Action>F9</Action>
+      <KeyGroup>Function</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="2" Col="4">
+      <Label>F10</Label>
+      <Action>F10</Action>
+      <KeyGroup>Function</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="3" Col="0">
+      <Label>F11</Label>
+      <Action>F11</Action>
+      <KeyGroup>Function</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="3" Col="1">
+      <Label>F12</Label>
+      <Action>F12</Action>
+      <KeyGroup>Function</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="3" Col="2">
+      <Label>F13</Label>
+      <Action>F13</Action>
+      <KeyGroup>Function</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="3" Col="3">
+      <Label>F14</Label>
+      <Action>F14</Action>
+      <KeyGroup>Function</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="3" Col="4">
+      <Label>F15</Label>
+      <Action>F15</Action>
+      <KeyGroup>Function</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="4" Col="0">
+      <Label>F16</Label>
+      <Action>F16</Action>
+      <KeyGroup>Function</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="4" Col="1">
+      <Label>F17</Label>
+      <Action>F17</Action>
+      <KeyGroup>Function</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="4" Col="2">
+      <Label>F18</Label>
+      <Action>F18</Action>
+      <KeyGroup>Function</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="4" Col="3">
+      <Label>F19</Label>
+      <Action>F19</Action>
+      <KeyGroup>Function</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="4" Col="4">
+      <Label>F20</Label>
+      <Action>F20</Action>
+      <KeyGroup>Function</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="5" Col="0">
+      <Label>F21</Label>
+      <Action>F21</Action>
+      <KeyGroup>Function</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="5" Col="1">
+      <Label>F22</Label>
+      <Action>F22</Action>
+      <KeyGroup>Function</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="5" Col="2">
+      <Label>F23</Label>
+      <Action>F23</Action>
+      <KeyGroup>Function</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="5" Col="3">
+      <Label>F19</Label>
+      <Action>F19</Action>
+      <KeyGroup>Function</KeyGroup>
+    </DynamicKey>
+    <DynamicKey Row="5" Col="4">
+      <Label>F20</Label>
+      <Action>F20</Action>
+      <KeyGroup>Function</KeyGroup>
+    </DynamicKey>
+  </Content>
+</Keyboard>

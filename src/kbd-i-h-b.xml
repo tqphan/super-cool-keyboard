@@ -135,7 +135,7 @@
     </DynamicKey>
     <DynamicKey Row="2" Col="4">
       <Label>RALT</Label>
-      <KeyToggle>RMENU</KeyToggle>
+      <KeyToggle>LMENU</KeyToggle>
       <KeyGroup>Modifier</KeyGroup>
     </DynamicKey>
     <DynamicKey Row="2" Col="5">
@@ -180,8 +180,8 @@
       <KeyGroup>Modifier</KeyGroup>
     </DynamicKey>
     <DynamicKey Row="3" Col="1">
-      <Label>Alt</Label>
-      <Action>LeftAlt</Action>
+      <Label>LALT</Label>
+      <KeyToggle>LMENU</KeyToggle>
       <KeyGroup>Modifier</KeyGroup>
     </DynamicKey>
     <DynamicKey Row="3" Col="2">
@@ -192,7 +192,7 @@
     </DynamicKey>
     <DynamicKey Row="3" Col="3">
       <Label>Tab</Label>
-<Text>&#9;</Text>
+      <Text>&#9;</Text>
       <KeyGroup>Modifier</KeyGroup>
     </DynamicKey>
     <DynamicKey Row="3" Col="4">

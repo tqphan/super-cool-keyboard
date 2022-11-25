@@ -1,0 +1,160 @@
+<Keyboard>
+    <Name>Mouse 2</Name>
+    <HideFromKeyboardMenu>True</HideFromKeyboardMenu>
+    <PersistNewState>False</PersistNewState>  
+	<WindowState>Floating</WindowState>
+	<Position>Bottom</Position> 
+    <Width>100%</Width>
+    <Height>20%</Height>
+    <SymbolMargin>0</SymbolMargin>
+    <BorderThickness>1,1,1,1</BorderThickness>
+    <Grid>
+        <Rows>2</Rows>
+        <Cols>11</Cols>
+    </Grid>
+    <Keys>
+        <ActionKey>
+            <Action>MouseMoveAndLeftClick</Action>
+            <Symbol>MouseLeftClickIcon</Symbol>
+	        <Label>Move Left Click</Label>
+            <Row>0</Row>
+            <Col>0</Col>
+        </ActionKey>
+        <ActionKey>
+            <Action>MouseMoveAndRightClick</Action>
+            <Symbol>MouseRightClickIcon</Symbol>
+			<Label>Move Right Click</Label>
+            <Row>0</Row>
+            <Col>1</Col>
+        </ActionKey>
+        <ActionKey>
+            <Action>MouseMoveAndLeftDoubleClick</Action>
+            <Symbol>MouseLeftDoubleClickIcon</Symbol>
+		    <Label>DUPLO
+ESQUERDO</Label>
+            <Row>0</Row>
+            <Col>2</Col>
+        </ActionKey>
+        <ActionKey>
+            <Action>MouseMoveAndScrollToTop</Action>
+            <Symbol>MouseScrollToTopIcon</Symbol>
+		    <Label>ROLAR
+CIMA</Label>
+            <Row>0</Row>
+            <Col>3</Col>
+        </ActionKey>
+        <ActionKey>
+            <Action>MouseMoveAndScrollToBottom</Action>
+            <Symbol>MouseScrollToBottomIcon</Symbol>
+		    <Label>ROLAR
+Baixo</Label>
+            <Row>0</Row>
+            <Col>4</Col>
+        </ActionKey>
+        <ActionKey>
+            <Action>MouseDrag</Action>
+            <Symbol>MouseDragIcon</Symbol>
+	        <Label>Mouse Drag</Label>
+            <Row>0</Row>
+            <Col>5</Col>
+        </ActionKey>
+        <ActionKey>
+            <Action>MouseMagnifier</Action>
+            <Symbol>MouseMagnifierIcon</Symbol>
+			<Label>LUPA</Label>
+            <Row>0</Row>
+            <Col>6</Col>
+        </ActionKey>
+        <ActionKey>
+            <Action>RepeatLastMouseAction</Action>
+            <Symbol>ReplayLastMouseActionIcon</Symbol>
+			<Label>REPETIR ULTIMO</Label>
+            <Row>0</Row>
+            <Col>7</Col>
+        </ActionKey>
+        <ChangeKeyboardKey> 
+            <Row>0</Row>
+            <Col>8</Col>
+            <Symbol>ExpandDockIcon</Symbol>
+            <Label>MENOS OPÇÕES</Label>
+            <ReturnToThisKeyboard>True</ReturnToThisKeyboard>
+            <DestinationKeyboard>Mouse1-b</DestinationKeyboard>
+        </ChangeKeyboardKey>
+        <ActionKey>
+            <Action>Sleep</Action>
+            <Symbol>SleepIcon</Symbol>
+            <Row>0</Row>
+            <Col>9</Col>
+        </ActionKey>
+        <ActionKey>
+            <Action>MouseLeftClick</Action>
+            <Symbol>MouseLeftClickIcon</Symbol>
+	        <Label>Left Click</Label>
+            <Row>1</Row>
+            <Col>0</Col>
+        </ActionKey>
+        <ActionKey>
+            <Action>MouseRightClick</Action>
+            <Symbol>MouseRightClickIcon</Symbol>
+			<Label>Right Click</Label>
+            <Row>1</Row>
+            <Col>1</Col>
+        </ActionKey>
+        <ActionKey>
+            <Action>MouseMiddleClick</Action>
+            <Symbol>MouseMiddleClickIcon</Symbol>
+			<Label>Right Click</Label>
+            <Row>1</Row>
+            <Col>2</Col>
+        </ActionKey>
+        <ActionKey>
+            <Action>MouseMoveAndScrollToLeft</Action>
+            <Symbol>MouseScrollToLeftIcon</Symbol>
+			<Label>Scroll Left</Label>
+            <Row>1</Row>
+            <Col>3</Col>
+        </ActionKey>
+        <ActionKey>
+            <Action>MouseMoveAndScrollToRight</Action>
+            <Symbol>MouseScrollToRightIcon</Symbol>
+			<Label>Scroll Right</Label>
+            <Row>1</Row>
+            <Col>4</Col>
+        </ActionKey>
+        <ActionKey>
+            <Action>MouseMoveTo</Action>
+            <Symbol>MouseMoveToIcon</Symbol>
+		    <Label>Mouse Move</Label>
+            <Row>1</Row>
+            <Col>5</Col>
+        </ActionKey>
+        <ActionKey>
+            <Action>MouseMagneticCursor</Action>
+            <Symbol>MouseMagneticCursorIcon</Symbol>
+			<Label>Magnetic Mouse</Label>
+            <Row>1</Row>
+            <Col>6</Col>
+        </ActionKey>
+        <ActionKey>
+            <Action>MouseLeftDownUp</Action>
+            <Symbol>MouseLeftDownUpIcon</Symbol>
+			<Label>Left Hold/Release</Label>
+            <Row>1</Row>
+            <Col>7</Col>
+        </ActionKey>
+        <ActionKey>
+            <Action>MouseRightDownUp</Action>
+            <Symbol>MouseRightDownUpIcon</Symbol>
+			<Label>Right Hold/Release</Label>
+            <Row>1</Row>
+            <Col>8</Col>
+        </ActionKey>
+        <ChangeKeyboardKey> 
+            <Row>1</Row>
+            <Col>9</Col>
+            <Symbol>AlphaIcon</Symbol>
+            <ReturnToThisKeyboard>True</ReturnToThisKeyboard>
+            <DestinationKeyboard>Full-b</DestinationKeyboard>
+        </ChangeKeyboardKey>
+    </Keys>
+</Keyboard>

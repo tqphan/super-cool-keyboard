@@ -1,0 +1,60 @@
+<Keyboard>
+    <Name>Menu</Name>
+    <HideFromKeyboardMenu>True</HideFromKeyboardMenu>
+    <PersistNewState>False</PersistNewState>  
+	<WindowState>Floating</WindowState>
+	<Position>Bottom</Position> 
+    <Width>100%</Width>
+    <Height>20%</Height>
+    <SymbolMargin>10</SymbolMargin>
+    <BorderThickness>1,1,1,1</BorderThickness>
+    <Grid>
+        <Rows>2</Rows>
+        <Cols>3</Cols>
+    </Grid>
+    <Keys>
+		<ChangeKeyboardKey> 
+     <Row>0</Row>
+     <Col>0</Col>
+     <Symbol>AlphaIcon</Symbol>
+     <ReturnToThisKeyboard>True</ReturnToThisKeyboard>
+     <DestinationKeyboard>Full-t</DestinationKeyboard>
+        </ChangeKeyboardKey>
+		<ChangeKeyboardKey> 
+     <Row>0</Row>
+     <Col>1</Col>
+     <Symbol>NumericAndSymbolsIcon</Symbol>
+     <ReturnToThisKeyboard>True</ReturnToThisKeyboard>
+     <DestinationKeyboard>Full-num-b</DestinationKeyboard>
+        </ChangeKeyboardKey>
+		<ActionKey>
+            <Action>Sleep</Action>
+            <Symbol>SleepIcon</Symbol>
+            <Row>0</Row>
+            <Col>2</Col>
+        </ActionKey>
+	    <ActionKey>
+            <Action>Calibrate</Action>
+			<Label>CALIBRA&#199;&#195;o</Label>
+            <Symbol>CalibrateIcon</Symbol>
+            <Row>1</Row>
+            <Col>0</Col>
+        </ActionKey>
+			<ActionKey>
+            <Row>1</Row>
+            <Col>1</Col>
+            <Action>MenuKeyboard</Action>
+		    <Label>Sair do
+Dinâmico</Label>
+            <Symbol>KeyboardIcon</Symbol>
+        </ActionKey>
+		<ActionKey>
+            <Action>Restart</Action>
+            <Symbol>RestartIcon</Symbol>
+            <Label>Reiniciar
+Optikey</Label>
+            <Row>1</Row>
+            <Col>2</Col>
+        </ActionKey>
+</Keys>
+</Keyboard>

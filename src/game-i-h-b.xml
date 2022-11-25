@@ -1,26 +1,26 @@
 <Keyboard>
-  <Name>SuperCoolKeyboard</Name>
-  <Width>100%</Width>
+  <Name>SCK - Game 1</Name>
   <Height>15%</Height>
   <SymbolMargin>12</SymbolMargin>
   <BorderThickness>0,0,0,0</BorderThickness>
   <DockSize>Full</DockSize>
-  <Position>Top</Position>
+  <Position>Bottom</Position>
+  <Width>100%</Width>
   <HorizontalOffset>0</HorizontalOffset>
   <VerticalOffset>0</VerticalOffset>
   <BackgroundColor>#ffffff</BackgroundColor>
   <BorderColor>#ffffff</BorderColor>
   <WindowState>Floating</WindowState>
-  <HideFromKeyboardMenu>false</HideFromKeyboardMenu>
+  <HideFromKeyboardMenu>true</HideFromKeyboardMenu>
+  <PersistNewState>false</PersistNewState>
   <Grid>
     <Rows>1</Rows>
     <Cols>12</Cols>
   </Grid>
-  <PersistNewState>false</PersistNewState>
   <Content>
     <DynamicKey Row="0" Col="0">
-      <Symbol>DownArrowKeyIcon</Symbol>
-      <ChangeKeyboard BackReturnsHere="true">gaze-bar-bottom</ChangeKeyboard>
+      <Symbol>UpArrowKeyIcon</Symbol>
+      <ChangeKeyboard BackReturnsHere="true">game-i-h-t</ChangeKeyboard>
     </DynamicKey>
     <DynamicKey Row="0" Col="1">
       <Symbol>MouseLeftClickIcon</Symbol>
@@ -35,40 +35,44 @@
       <Action>LookToScrollActive</Action>
     </DynamicKey>
     <DynamicKey Row="0" Col="4">
-      <Symbol>ConversationIcon</Symbol>
-      <Action>ConversationAlpha1Keyboard</Action>
+      <Symbol>BrowserBackIcon</Symbol>
+      <KeyDown>LMENU</KeyDown>
+      <KeyDown>LEFT</KeyDown>
+      <KeyUp>LEFT</KeyUp>
+      <KeyUp>LMENU</KeyUp>
     </DynamicKey>
     <DynamicKey Row="0" Col="5">
       <Symbol>KeyboardIcon</Symbol>
-      <ChangeKeyboard BackReturnsHere="true">kbd-ii-h-t</ChangeKeyboard>
+      <ChangeKeyboard BackReturnsHere="true">kbd-ii-h-b</ChangeKeyboard>
     </DynamicKey>
     <DynamicKey Row="0" Col="6">
       <Symbol>MouseIcon</Symbol>
-      <ChangeKeyboard BackReturnsHere="true">mouse-i-h-t</ChangeKeyboard>
+      <ChangeKeyboard BackReturnsHere="true">mouse-i-h-b</ChangeKeyboard>
     </DynamicKey>
     <DynamicKey Row="0" Col="7">
-      <Symbol>BrowserIcon</Symbol>
-      <ChangeKeyboard BackReturnsHere="true">web-i-h-t</ChangeKeyboard>
+      <Symbol>BrowserForwardIcon</Symbol>
+      <KeyDown>LMENU</KeyDown>
+      <KeyDown>RIGHT</KeyDown>
+      <KeyUp>RIGHT</KeyUp>
+      <KeyUp>LMENU</KeyUp>
     </DynamicKey>
-    <DynamicKey Row="0" Col="8">
-      <Symbol>WinIcon</Symbol>
-      <KeyDown>LWIN</KeyDown>
-      <KeyUp>LWIN</KeyUp>
-    </DynamicKey>
-    <DynamicKey Row="0" Col="9">
-      <Symbol>LookToScrollBoundsSubwindowIcon</Symbol>
-      <KeyDown>LWIN</KeyDown>
-      <KeyDown>TAB</KeyDown>
-      <KeyUp>TAB</KeyUp>
-      <KeyUp>LWIN</KeyUp>
-    </DynamicKey>
+      <DynamicKey Row="0" Col="8">
+        <Symbol>ArrowPointingToTopIcon</Symbol>
+        <KeyDown>LSHIFT</KeyDown>
+        <Text>&#32;</Text>
+        <KeyUp>LSHIFT</KeyUp>
+      </DynamicKey>
+      <DynamicKey Row="0" Col="9">
+        <Symbol>ArrowPointingToBottomIcon</Symbol>
+        <Text>&#32;</Text>
+      </DynamicKey>
     <DynamicKey Row="0" Col="10">
-      <Symbol>MenuIcon</Symbol>
-      <Action>MenuKeyboard</Action>
+      <Symbol>MoreIcon</Symbol>
+      <ChangeKeyboard BackReturnsHere="true">web-ii-h-b</ChangeKeyboard>
     </DynamicKey>
     <DynamicKey Row="0" Col="11">
       <Symbol>MinimiseIcon</Symbol>
-      <ChangeKeyboard BackReturnsHere="true">mini-top</ChangeKeyboard>
+      <ChangeKeyboard BackReturnsHere="true">game-mini-bottom</ChangeKeyboard>
     </DynamicKey>
   </Content>
 </Keyboard>

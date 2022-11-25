@@ -110,8 +110,8 @@
       <KeyGroup>Modifier</KeyGroup>
     </DynamicKey>
     <DynamicKey Row="1" Col="4">
-      <Label>RALT</Label>
-      <KeyToggle>RMENU</KeyToggle>
+      <Label>LALT</Label>
+      <KeyToggle>LMENU</KeyToggle>
       <KeyGroup>Modifier</KeyGroup>
     </DynamicKey>
     <DynamicKey Row="1" Col="5">

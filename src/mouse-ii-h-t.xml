@@ -112,7 +112,7 @@
       </DynamicKey>
       <DynamicKey Row="1" Col="11">
         <Symbol>NoIcon</Symbol>
-        <Action>BackFromKeyboard</Action>
+        <ChangeKeyboard BackReturnsHere="true">gaze-bar-top</ChangeKeyboard>
       </DynamicKey>
   </Content>
 </Keyboard>

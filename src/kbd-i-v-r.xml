@@ -11,13 +11,13 @@
   <BackgroundColor>#ffffff</BackgroundColor>
   <BorderColor>#ffffff</BorderColor>
   <WindowState>Floating</WindowState>
-  <HideFromKeyboardMenu>false</HideFromKeyboardMenu>
+  <HideFromKeyboardMenu>true</HideFromKeyboardMenu>
   <Grid>
-    <Rows>10</Rows>
-    <Cols>5</Cols>
+    <Rows>12</Rows>
+    <Cols>4</Cols>
   </Grid>
   <Content>
-    <SuggestionRow Row="0" Col="0" Width="5"/>
+    <SuggestionRow Row="0" Col="0" Width="4"/>
     <DynamicKey Row="1" Col="0">
       <ShiftDownLabel>Q</ShiftDownLabel>
       <Label>q</Label>

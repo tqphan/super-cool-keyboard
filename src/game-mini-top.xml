@@ -1,26 +1,25 @@
 <Keyboard>
   <Name>OptiKey-BoardMaker</Name>
-  <Width>10%</Width>
-  <Height>10%</Height>
+  <Height>20%</Height>
   <SymbolMargin>0</SymbolMargin>
   <BorderThickness>0,0,0,0</BorderThickness>
-  <DockSize>Full</DockSize>
-  <Position>Bottom</Position>
+  <Position>Top</Position>
+  <Width>20%</Width>
   <HorizontalOffset>0</HorizontalOffset>
-  <VerticalOffset>9.5%</VerticalOffset>
+  <VerticalOffset>0</VerticalOffset>
   <BackgroundColor>Transparent</BackgroundColor>
   <BorderColor>Transparent</BorderColor>
   <WindowState>Floating</WindowState>
-  <HideFromKeyboardMenu>true</HideFromKeyboardMenu>
   <Grid>
-    <Rows>1</Rows>
-    <Cols>1</Cols>
+    <Rows>2</Rows>
+    <Cols>3</Cols>
   </Grid>
-  <KeyGroup Name="Minimize" Opacity="0.75" />
+  <HideFromKeyboardMenu>true</HideFromKeyboardMenu>
+  <KeyGroup Name="Minimize" Opacity="0.25" />
   <Content>
-    <DynamicKey Row="0" Col="0" CompletionTimes="2000">
+    <DynamicKey Row="0" Col="1">
       <Symbol>MinimiseIcon</Symbol>
-      <ChangeKeyboard BackReturnsHere="false">gaze-bar-bottom</ChangeKeyboard>
+      <ChangeKeyboard BackReturnsHere="false">game-i-h-t</ChangeKeyboard>
       <KeyGroup>Minimize</KeyGroup>
     </DynamicKey>
   </Content>

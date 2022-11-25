@@ -1,0 +1,90 @@
+<Keyboard>
+  <Name>Game</Name>
+  <Height>12%</Height>
+  <SymbolMargin>12</SymbolMargin>
+  <BorderThickness>0,0,0,0</BorderThickness>
+  <DockSize>Full</DockSize>
+  <Position>Top</Position>
+  <Width>100%</Width>
+  <HorizontalOffset>0</HorizontalOffset>
+  <VerticalOffset>0</VerticalOffset>
+  <BackgroundColor>#ffffff</BackgroundColor>
+  <BorderColor>#ffffff</BorderColor>
+  <WindowState>Floating</WindowState>
+  <Grid>
+    <Rows>1</Rows>
+    <Cols>14</Cols>
+  </Grid>
+  <HideFromKeyboardMenu>false</HideFromKeyboardMenu>
+  <PersistNewState>false</PersistNewState>
+  <Content>
+    <DynamicKey Row="0" Col="0">
+      <Symbol>DownArrowKeyIcon</Symbol>
+      <ChangeKeyboard BackReturnsHere="true">game-i-h-b</ChangeKeyboard>
+    </DynamicKey>
+      <DynamicKey Row="0" Col="1">
+        <Label>F1</Label>
+        <Action>F1</Action>
+        <KeyGroup>Function</KeyGroup>
+      </DynamicKey>
+      <DynamicKey Row="0" Col="2">
+        <Label>F2</Label>
+        <Action>F2</Action>
+        <KeyGroup>Function</KeyGroup>
+      </DynamicKey>
+      <DynamicKey Row="0" Col="3">
+        <Label>F3</Label>
+        <Action>F3</Action>
+        <KeyGroup>Function</KeyGroup>
+      </DynamicKey>
+      <DynamicKey Row="0" Col="4">
+        <Label>F4</Label>
+        <Action>F4</Action>
+        <KeyGroup>Function</KeyGroup>
+      </DynamicKey>
+      <DynamicKey Row="0" Col="5">
+        <Label>F5</Label>
+        <Action>F5</Action>
+        <KeyGroup>Function</KeyGroup>
+      </DynamicKey>
+      <DynamicKey Row="0" Col="6">
+        <Label>F6</Label>
+        <Action>F6</Action>
+        <KeyGroup>Function</KeyGroup>
+      </DynamicKey>
+      <DynamicKey Row="0" Col="7">
+        <Label>F7</Label>
+        <Action>F7</Action>
+        <KeyGroup>Function</KeyGroup>
+      </DynamicKey>
+      <DynamicKey Row="0" Col="8">
+        <Label>F8</Label>
+        <Action>F8</Action>
+        <KeyGroup>Function</KeyGroup>
+      </DynamicKey>
+      <DynamicKey Row="0" Col="9">
+        <Label>F9</Label>
+        <Action>F9</Action>
+        <KeyGroup>Function</KeyGroup>
+      </DynamicKey>
+      <DynamicKey Row="0" Col="10">
+        <Label>F10</Label>
+        <Action>F10</Action>
+        <KeyGroup>Function</KeyGroup>
+      </DynamicKey>
+      <DynamicKey Row="0" Col="11">
+        <Label>F11</Label>
+        <Action>F11</Action>
+        <KeyGroup>Function</KeyGroup>
+      </DynamicKey>
+      <DynamicKey Row="0" Col="12">
+        <Label>F12</Label>
+        <Action>F12</Action>
+        <KeyGroup>Function</KeyGroup>
+      </DynamicKey>
+      <DynamicKey Row="0" Col="13">
+        <Symbol>MinimiseIcon</Symbol>
+        <ChangeKeyboard BackReturnsHere="true">game-mini-top</ChangeKeyboard>
+      </DynamicKey>
+  </Content>
+</Keyboard>
